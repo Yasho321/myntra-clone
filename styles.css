@@ -288,3 +288,10 @@ footer{
     width: 25vw;
     height: 4vh;
 }
+.flexbeg{
+    justify-content: flex-start
+}
+.instm{
+    margin: 0vw 1vw;
+}
+
