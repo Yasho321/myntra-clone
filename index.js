@@ -10,6 +10,10 @@ if(x.matches){
       document.getElementById("searchbox").classList.toggle("search5");
 
     });
+    document.getElementById("install").classList.add("flexbeg");
+    document.getElementById("install").classList.remove("space-between");
+    document.getElementsByClassName("installimg")[0].classList.add("instm");
+    document.getElementsByClassName("installimg")[1].classList.add("instm");
 
     
    
