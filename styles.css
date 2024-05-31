@@ -169,13 +169,13 @@ footer{
     display: none;
 }
 .menuicon{
-    height: 30px;
-    width: 30px;
+    height: 3vh;
+    width: 8vw;
 }
 @media(max-width: 1100px){
     .logo{
-        height: 40px;
-        width: 80px;
+        height: 5vh;
+        width: 22vw;
         padding-left: 10px;
         
         
@@ -216,12 +216,13 @@ footer{
         display: none;
     }
     .pm{
-        padding-right: 0.0001rem;
+        padding: 0rem 0.75rem;
     }
     .baga{
-        height: 25px;
-        width: 25px;
+        height: 4vh;
+        width: 7vw;
     }
+
 
 
 
@@ -242,8 +243,8 @@ footer{
         padding: 0;
     }
     .prod{
-        height: 105px;
-        width: 88px;
+        height: 13vh;
+        width: 24vw;
     }
     .row>* {
         width: 25%;
@@ -253,8 +254,8 @@ footer{
         margin: 25px 0px 25px;
     }
     .shopcat{
-        height: 120px;
-        width: 80px;
+        height: 15vh;
+        width: 22vw;
     }
     header{
         box-shadow: rgba(135, 135, 144, 0.2) 0px 3.5px 7.5px 0px;
@@ -265,6 +266,14 @@ footer{
     .search{
         height: 0px;
         width: 0px;
+    }
+    .wish{
+        height: 4vh;
+        width: 7vw;
+    }
+    .icon{
+        height: 4vh;
+        width: 7vw;
     }
     
     
