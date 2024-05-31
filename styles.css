@@ -182,12 +182,13 @@ footer{
     }
     nav ul li{
         padding: 0rem 0.5rem;
-        margin-top: 15px;
+        margin-top: 1vh;
+        font-size: 2rem;
     }
     
     nav{
         font-weight:700;
-        font-size: 9px;
+        
         height: 7vh;
         
     }
