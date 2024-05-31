@@ -7,7 +7,7 @@ if(x.matches){
     document.getElementsByClassName("mentext")[0].textContent="";
     document.getElementsByClassName("mentext")[1].textContent="";
     document.getElementById("searchs").addEventListener("click",function () {
-      document.getElementById("searchs").classList.toggle("search5");
+      document.getElementById("searchbox").classList.toggle("search5");
 
     });
 
